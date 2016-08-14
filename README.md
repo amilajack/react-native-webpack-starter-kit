@@ -1,3 +1,7 @@
+>## This Project Is Deprecated
+
+> This kit was originally used to build and ship, and later extracted from, [Lumpen Radio](https://github.com/jhabdas/lumpen-radio) _early_ in the RN lifecycle. Since then there have been significant advances in RN tooling and, as a result, I recommend checking out some of the other [Awesome React Native Boilerplates](http://habd.as/awesome-react-boilerplates/#react-native) that've popped up lately. Have fun out there!
+
 # react-native-webpack-starter-kit
 
 [![Build Status](https://travis-ci.org/jhabdas/react-native-webpack-starter-kit.svg?branch=master)](https://travis-ci.org/jhabdas/react-native-webpack-starter-kit)
@@ -6,8 +10,6 @@
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/jhabdas/react-native-webpack-starter-kit)
 
 Build your React Native app with Webpack and Babel.
-
-> This kit was originally used to build and ship, and later extracted from, [Lumpen Radio](https://github.com/jhabdas/lumpen-radio) _early_ in the RN lifecycle. Since then there have been significant advances in RN tooling and, as a result, I recommend checking out some of the other [Awesome React Native Boilerplates](http://habd.as/awesome-react-boilerplates/#react-native) that've popped up lately. Have fun out there!
 
 ![React Native Webpack Starter Kit](https://dl.dropboxusercontent.com/u/10150480/rn-starter-kit-hero-wordswag.jpg)
 
