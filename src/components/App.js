@@ -1,3 +1,4 @@
+// @flow
 import React, { Component, PropTypes } from 'react'
 
 import {
@@ -7,9 +8,7 @@ import {
   View,
 } from 'react-native'
 
-function App({
-  instructions,
-}) {
+function App({ instructions }) {
   return (
     <View style={styles.container}>
       <Text style={styles.welcome}>

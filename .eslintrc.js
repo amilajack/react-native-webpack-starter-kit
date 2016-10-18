@@ -13,9 +13,11 @@ module.exports = {
     }
   },
   plugins: [
-    'react'
+    'react',
+    'flowtype-errors'
   ],
   rules: {
+    'flowtype-errors/show-errors': 2,
     'indent': ['error', 2],
     'quotes': ['error', 'single'],
     'linebreak-style': ['error', 'unix'],

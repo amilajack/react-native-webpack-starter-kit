@@ -1,6 +1,8 @@
 /**
  * React Native Webpack Starter Kit
  * https://github.com/jhabdas/react-native-webpack-starter-kit
+ *
+ * @flow
  */
 import React from 'react'
 import { AppRegistry } from 'react-native'
